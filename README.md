@@ -4,7 +4,7 @@ Introduction to Statistical Learning
 Installing R with OpenBLAS and RStudio
 --------------------------------------
 ```bash
-$ apt install r-base
+$ sudo apt install r-base
 $ sudo apt install libopenblas-base r-base 
 ```
 
@@ -22,7 +22,7 @@ If unmet dependencies encountered, run:
 $ sudo apt-get -f install
 ```
 
-Click here for more information on [OpenBlas].
+Click here for more information on [OpenBlas].  
 Click here for more information on [RStudio].
 
 [OpenBlas]: http://www.openblas.net/
