@@ -1,4 +1,4 @@
-# isl
+# islr
 Introduction to Statistical Learning
 
 Installing R with OpenBLAS and RStudio
